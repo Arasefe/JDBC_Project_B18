@@ -6,7 +6,7 @@ public class DB_Connection {
 
     public static void main(String[] args) throws SQLException {
 
-        // CONNECTION -->> STATEMENT --->> RESULTSET
+        // CONNECTION -->> STATEMENT --->> RESULT SET
 
         // Driver manager is used to get the connection
         // The IP address is the IP address of EC2 instance that have Oracle database
