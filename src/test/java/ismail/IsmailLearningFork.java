@@ -1,4 +1,1 @@
-package ismail;
-
-public class IsmailLearningFork {
-}
+package ismail;public class IsmailLearningFork {    public static void main(String[] args) {        System.out.println("I AM LEARNING FORK");    }}
